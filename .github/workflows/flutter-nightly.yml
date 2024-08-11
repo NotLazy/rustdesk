@@ -1,4 +1,4 @@
-name: Flutter Nightly Build
+name: (This is the one you want) Flutter Nightly Build
 
 on:
   workflow_dispatch:
